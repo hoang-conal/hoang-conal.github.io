@@ -6,7 +6,8 @@
       "dayOfBirth": "04/10/1984",
       "cccdNumber": "017084005655",
       "phoneNumber": "0983012021",
-      "address": "Đồng Tiến, Ứng Hoà, Hà Nội"
+      "address": "Đồng Tiến, Ứng Hoà, Hà Nội",
+      "gioitinh": "Nam"
     },
     "totalTimeBHXH": "2 Năm",
     "listBHXH": [
@@ -38,7 +39,8 @@
       "dayOfBirth": "17/09/1983",
       "cccdNumber": "038083048376",
       "phoneNumber": "0977501162",
-      "address": "Như Lăng, Hà Hải, Hà Trung, Thanh Hoá"
+      "address": "Như Lăng, Hà Hải, Hà Trung, Thanh Hoá",
+      "gioitinh": "Nam"
     },
     "totalTimeBHXH": "7 Năm",
     "listBHXH": [
@@ -116,7 +118,8 @@
       }
     ],
     "avatar": "https://raw.githubusercontent.com/hoang-conal/vssid-f/main/avatar_2.jpg",
-	"imageBHYT": "https://hoang-conal.github.io/imagebhyt/bhyt-3821184092.png"
+	"imageBHYT": "https://hoang-conal.github.io/imagebhyt/bhyt-3821184092.png",
+	"kcblandau": "Trạm y tế xã Hà Hải"
   },
   {
     "profile": {
@@ -125,7 +128,8 @@
       "dayOfBirth": "28/05/1991",
       "cccdNumber": "049191004925",
       "phoneNumber": "0347245078",
-      "address": "Bản Cú Tá, Tam Văn, Lang Chánh, Thanh Hóa"
+      "address": "Bản Cú Tá, Tam Văn, Lang Chánh, Thanh Hóa",
+      "gioitinh": "Nữ"
     },
     "totalTimeBHXH": "14 Năm",
     "listBHXH": [
@@ -274,7 +278,8 @@
       "dayOfBirth": "18/03/1985",
       "cccdNumber": "019085005023",
       "phoneNumber": "0968341456",
-      "address": "Phúc Lương, Đại Từ, Thái Nguyên"
+      "address": "Phúc Lương, Đại Từ, Thái Nguyên",
+      "gioitinh": "Nam"
     },
     "totalTimeBHXH": "14 Năm",
     "listBHXH": [
@@ -423,7 +428,8 @@
       "dayOfBirth": "15/03/1971",
       "cccdNumber": "040071020347",
       "phoneNumber": "0976075763",
-      "address": "Đặng Sơn, Đỗ Lương, Nghệ An"
+      "address": "Đặng Sơn, Đỗ Lương, Nghệ An",
+      "gioitinh": "Nam"
     },
     "totalTimeBHXH": "15 Năm",
     "listBHXH": [
@@ -434,7 +440,7 @@
         "position": "Nhân Viên Kinh Doanh",
 		"luong": "15.000.000",
 		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q, Nam Từ Liêm, Hà Nội"
+		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
       },
      {
         "startDay": "06/2010",
@@ -443,7 +449,7 @@
         "position": "Nhân Viên Kinh Doanh",
 		"luong": "15.000.000",
 		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q, Nam Từ Liêm, Hà Nội"
+		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
       },
     {
         "startDay": "06/2011",
@@ -452,7 +458,7 @@
         "position": "Nhân Viên Kinh Doanh",
 		"luong": "15.000.000",
 		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q, Nam Từ Liêm, Hà Nội"
+		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
     },
     {
         "startDay": "06/2012",
@@ -461,7 +467,7 @@
         "position": "Nhân Viên Kinh Doanh",
 		"luong": "15.000.000",
 		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q, Nam Từ Liêm, Hà Nội"
+		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
       },
     {
         "startDay": "06/2013",
@@ -470,7 +476,7 @@
         "position": "Nhân Viên Kinh Doanh",
 		"luong": "15.000.000",
 		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q, Nam Từ Liêm, Hà Nội"
+		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
       },
       {
         "startDay": "06/2014",
@@ -564,6 +570,7 @@
       }
     ],
     "avatar": "https://raw.githubusercontent.com/hoang-conal/vssid-f/main/IMG_20231127_125223.jpg",
-	"imageBHYT": "https://hoang-conal.github.io/imagebhyt/bhyt-4024275626.jpeg"
+	"imageBHYT": "https://hoang-conal.github.io/imagebhyt/bhyt-4024275626.jpeg",
+	"kcblandau": "Trạm y tế xã Đặng Sơn"
   }
 ]
