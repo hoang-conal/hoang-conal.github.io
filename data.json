@@ -16,20 +16,25 @@
         "endDay": "07/2022",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
       {
         "startDay": "08/2022",
         "endDay": "08/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       }
     ],
+    "bHYT": {
+      "imageBHYT": "",
+      "kcblandau": "",
+      "timenamnamlientuc": "01/01/2024"
+    },
     "avatar": "https://raw.githubusercontent.com/hoang-conal/vssid-f/main/1720102781.jpg"
   },
   {
@@ -44,82 +49,85 @@
     },
     "totalTimeBHXH": "7 Năm",
     "listBHXH": [
-    {
+      {
         "startDay": "02/2017",
         "endDay": "02/2018",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "22.000.000",
-		"luongDongBHXH": "22.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "22.000.000",
+        "luongDongBHXH": "22.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "02/2018",
         "endDay": "07/2019",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "22.000.000",
-		"luongDongBHXH": "22.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "22.000.000",
+        "luongDongBHXH": "22.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "02/2019",
         "endDay": "02/2020",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "22.000.000",
-		"luongDongBHXH": "22.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "22.000.000",
+        "luongDongBHXH": "22.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "02/2020",
         "endDay": "07/2021",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "22.000.000",
-		"luongDongBHXH": "22.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "22.000.000",
+        "luongDongBHXH": "22.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "02/2021",
         "endDay": "09/2021",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "22.000.000",
-		"luongDongBHXH": "22.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "22.000.000",
+        "luongDongBHXH": "22.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
       {
         "startDay": "09/2021",
         "endDay": "07/2022",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "22.000.000",
-		"luongDongBHXH": "22.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "22.000.000",
+        "luongDongBHXH": "22.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
       {
         "startDay": "08/2022",
         "endDay": "08/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "22.000.000",
-		"luongDongBHXH": "22.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "22.000.000",
+        "luongDongBHXH": "22.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-	  {
+      {
         "startDay": "09/2023",
         "endDay": "11/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng phòng kinh doanh",
-		"luong": "22.000.000",
-		"luongDongBHXH": "22.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "22.000.000",
+        "luongDongBHXH": "22.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       }
     ],
-    "avatar": "https://raw.githubusercontent.com/hoang-conal/vssid-f/main/avatar_2.jpg",
-	"imageBHYT": "https://hoang-conal.github.io/imagebhyt/bhyt-3821184092.png",
-	"kcblandau": "Trạm y tế xã Hà Hải"
+    "bHYT": {
+      "imageBHYT": "https://hoang-conal.github.io/imagebhyt/bhyt-3821184092.png",
+      "kcblandau": "Trạm y tế xã Hà Hải",
+      "timenamnamlientuc": "01/01/2028"
+    },
+    "avatar": "https://raw.githubusercontent.com/hoang-conal/vssid-f/main/avatar_2.jpg"
   },
   {
     "profile": {
@@ -133,142 +141,147 @@
     },
     "totalTimeBHXH": "14 Năm",
     "listBHXH": [
-	{
+      {
         "startDay": "02/2010",
         "endDay": "02/2011",
         "company": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐẦU TƯ DŨNG PHÁT",
         "position": "Kế Toán",
-		"luong": "9.000.000",
-		"luongDongBHXH": "9.000.000",
-		"noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
+        "luong": "9.000.000",
+        "luongDongBHXH": "9.000.000",
+        "noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
       },
-	{
+      {
         "startDay": "02/2011",
         "endDay": "02/2012",
         "company": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐẦU TƯ DŨNG PHÁT",
         "position": "Kế Toán",
-		"luong": "9.000.000",
-		"luongDongBHXH": "9.000.000",
-		"noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
-    },
-	{
+        "luong": "9.000.000",
+        "luongDongBHXH": "9.000.000",
+        "noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
+      },
+      {
         "startDay": "02/2012",
         "endDay": "02/2013",
         "company": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐẦU TƯ DŨNG PHÁT",
         "position": "Kế Toán",
-		"luong": "9.000.000",
-		"luongDongBHXH": "9.000.000",
-		"noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
-    },
-	{
+        "luong": "9.000.000",
+        "luongDongBHXH": "9.000.000",
+        "noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
+      },
+      {
         "startDay": "02/2013",
         "endDay": "02/2014",
         "company": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐẦU TƯ DŨNG PHÁT",
         "position": "Kế Toán",
-		"luong": "9.000.000",
-		"luongDongBHXH": "9.000.000",
-		"noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
-    },
-	{
+        "luong": "9.000.000",
+        "luongDongBHXH": "9.000.000",
+        "noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
+      },
+      {
         "startDay": "02/2014",
         "endDay": "02/2015",
         "company": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐẦU TƯ DŨNG PHÁT",
         "position": "Kế Toán",
-		"luong": "9.000.000",
-		"luongDongBHXH": "9.000.000",
-		"noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
-    },
-	{
+        "luong": "9.000.000",
+        "luongDongBHXH": "9.000.000",
+        "noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
+      },
+      {
         "startDay": "02/2015",
         "endDay": "02/2016",
         "company": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐẦU TƯ DŨNG PHÁT",
         "position": "Kế Toán",
-		"luong": "9.000.000",
-		"luongDongBHXH": "9.000.000",
-		"noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
-    },
-	{
+        "luong": "9.000.000",
+        "luongDongBHXH": "9.000.000",
+        "noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
+      },
+      {
         "startDay": "02/2016",
         "endDay": "02/2017",
         "company": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐẦU TƯ DŨNG PHÁT",
         "position": "Kế Toán",
-		"luong": "9.000.000",
-		"luongDongBHXH": "9.000.000",
-		"noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
-    },
-	{
+        "luong": "9.000.000",
+        "luongDongBHXH": "9.000.000",
+        "noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
+      },
+      {
         "startDay": "02/2017",
         "endDay": "05/2017",
         "company": "CÔNG TY CỔ PHẦN XÂY DỰNG ĐẦU TƯ DŨNG PHÁT",
         "position": "Kế Toán",
-		"luong": "9.000.000",
-		"luongDongBHXH": "9.000.000",
-		"noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
-    },
-    {
+        "luong": "9.000.000",
+        "luongDongBHXH": "9.000.000",
+        "noiLamViec": "thôn Tiên Thảo, xã Việt Long, huyện Sóc Sơn, Hà Nội"
+      },
+      {
         "startDay": "10/2017",
         "endDay": "03/2018",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Kế Toán",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "03/2018",
         "endDay": "03/2019",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Kế Toán",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "03/2019",
         "endDay": "03/2020",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Kế Toán",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "03/2020",
         "endDay": "03/2021",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Kế Toán",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "03/2021",
         "endDay": "03/2022",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Kế Toán",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
       {
         "startDay": "03/2022",
         "endDay": "03/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Kế Toán",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
       {
         "startDay": "03/2023",
         "endDay": "11/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Kế Toán",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       }
     ],
+    "bHYT": {
+      "imageBHYT": "",
+      "kcblandau": "Trạm y tế xã Hà Hải",
+      "timenamnamlientuc": "01/01/2028"
+    },
     "avatar": "https://raw.githubusercontent.com/hoang-conal/vssid-f/main/IMG_20231127_125228.jpg"
   },
   {
@@ -283,145 +296,150 @@
     },
     "totalTimeBHXH": "14 Năm",
     "listBHXH": [
-	{
+      {
         "startDay": "02/2010",
         "endDay": "02/2011",
         "company": "CÔNG TY TNHH THIẾT BỊ GIÁO DỤC VÀ VĂN PHÒNG PHẨM MINH MINH",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "10.000.000",
-		"luongDongBHXH": "10.000.000",
-		"noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
-    },
-	{
+        "luong": "10.000.000",
+        "luongDongBHXH": "10.000.000",
+        "noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
+      },
+      {
         "startDay": "02/2011",
         "endDay": "02/2012",
         "company": "CÔNG TY TNHH THIẾT BỊ GIÁO DỤC VÀ VĂN PHÒNG PHẨM MINH MINH",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "10.000.000",
-		"luongDongBHXH": "10.000.000",
-		"noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
-    },
-	{
+        "luong": "10.000.000",
+        "luongDongBHXH": "10.000.000",
+        "noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
+      },
+      {
         "startDay": "02/2012",
         "endDay": "02/2013",
         "company": "CÔNG TY TNHH THIẾT BỊ GIÁO DỤC VÀ VĂN PHÒNG PHẨM MINH MINH",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "10.000.000",
-		"luongDongBHXH": "10.000.000",
-		"noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
-    },
-	{
+        "luong": "10.000.000",
+        "luongDongBHXH": "10.000.000",
+        "noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
+      },
+      {
         "startDay": "02/2013",
         "endDay": "02/2014",
         "company": "CÔNG TY TNHH THIẾT BỊ GIÁO DỤC VÀ VĂN PHÒNG PHẨM MINH MINH",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "10.000.000",
-		"luongDongBHXH": "10.000.000",
-		"noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
-    },
-	{
+        "luong": "10.000.000",
+        "luongDongBHXH": "10.000.000",
+        "noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
+      },
+      {
         "startDay": "02/2014",
         "endDay": "02/2015",
         "company": "CÔNG TY TNHH THIẾT BỊ GIÁO DỤC VÀ VĂN PHÒNG PHẨM MINH MINH",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "10.000.000",
-		"luongDongBHXH": "10.000.000",
-		"noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
-    },
-	{
+        "luong": "10.000.000",
+        "luongDongBHXH": "10.000.000",
+        "noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
+      },
+      {
         "startDay": "02/2015",
         "endDay": "02/2016",
         "company": "CÔNG TY TNHH THIẾT BỊ GIÁO DỤC VÀ VĂN PHÒNG PHẨM MINH MINH",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "10.000.000",
-		"luongDongBHXH": "10.000.000",
-		"noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
-    },
-	{
+        "luong": "10.000.000",
+        "luongDongBHXH": "10.000.000",
+        "noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
+      },
+      {
         "startDay": "02/2016",
         "endDay": "02/2017",
         "company": "CÔNG TY TNHH THIẾT BỊ GIÁO DỤC VÀ VĂN PHÒNG PHẨM MINH MINH",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "10.000.000",
-		"luongDongBHXH": "10.000.000",
-		"noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
-    },
-	{
+        "luong": "10.000.000",
+        "luongDongBHXH": "10.000.000",
+        "noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
+      },
+      {
         "startDay": "02/2017",
         "endDay": "09/2018",
         "company": "CÔNG TY TNHH THIẾT BỊ GIÁO DỤC VÀ VĂN PHÒNG PHẨM MINH MINH",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "10.000.000",
-		"luongDongBHXH": "10.000.000",
-		"noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
-    },
-    {
+        "luong": "10.000.000",
+        "luongDongBHXH": "10.000.000",
+        "noiLamViec": "327A, tổ 7 Nhân Trạch, đường Phú Lương, Phường Phú Lương, Quận Hà Đông, Thành phố Hà Nội"
+      },
+      {
         "startDay": "11/2018",
         "endDay": "03/2019",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
-    },
-    {
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+      },
+      {
         "startDay": "03/2018",
         "endDay": "03/2019",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "03/2019",
         "endDay": "03/2020",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "03/2020",
         "endDay": "03/2021",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-    {
+      {
         "startDay": "03/2021",
         "endDay": "03/2022",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
       {
         "startDay": "03/2022",
         "endDay": "03/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
       {
         "startDay": "03/2023",
         "endDay": "11/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "12.000.000",
-		"luongDongBHXH": "12.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "12.000.000",
+        "luongDongBHXH": "12.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       }
     ],
+    "bHYT": {
+      "imageBHYT": "",
+      "kcblandau": "Trạm y tế xã Hà Hải",
+      "timenamnamlientuc": "01/01/2028"
+    },
     "avatar": "https://raw.githubusercontent.com/hoang-conal/vssid-f/main/IMG_20231127_153834.jpg"
   },
-   {
+  {
     "profile": {
       "name": "Trần Minh Chiến",
       "maBHXH": "4024275626",
@@ -433,144 +451,147 @@
     },
     "totalTimeBHXH": "15 Năm",
     "listBHXH": [
-    {
+      {
         "startDay": "06/2009",
         "endDay": "06/2010",
         "company": "CÔNG TY TNHH Thiết Bị Y Tế Hamemy",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "15.000.000",
-		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
+        "luong": "15.000.000",
+        "luongDongBHXH": "15.000.000",
+        "noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
       },
-     {
+      {
         "startDay": "06/2010",
         "endDay": "06/2011",
         "company": "CÔNG TY TNHH Thiết Bị Y Tế Hamemy",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "15.000.000",
-		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
+        "luong": "15.000.000",
+        "luongDongBHXH": "15.000.000",
+        "noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
       },
-    {
+      {
         "startDay": "06/2011",
         "endDay": "06/2012",
         "company": "CÔNG TY TNHH Thiết Bị Y Tế Hamemy",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "15.000.000",
-		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
-    },
-    {
+        "luong": "15.000.000",
+        "luongDongBHXH": "15.000.000",
+        "noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
+      },
+      {
         "startDay": "06/2012",
         "endDay": "06/2013",
         "company": "CÔNG TY TNHH Thiết Bị Y Tế Hamemy",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "15.000.000",
-		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
+        "luong": "15.000.000",
+        "luongDongBHXH": "15.000.000",
+        "noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
       },
-    {
+      {
         "startDay": "06/2013",
         "endDay": "02/2014",
         "company": "CÔNG TY TNHH Thiết Bị Y Tế Hamemy",
         "position": "Nhân Viên Kinh Doanh",
-		"luong": "15.000.000",
-		"luongDongBHXH": "15.000.000",
-		"noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
+        "luong": "15.000.000",
+        "luongDongBHXH": "15.000.000",
+        "noiLamViec": "Số 7 ngách 402/7 đường Mỹ Đình P. Mỹ Đình 1 Q. Nam Từ Liêm, Hà Nội"
       },
       {
         "startDay": "06/2014",
         "endDay": "06/2015",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
       {
         "startDay": "06/2015",
         "endDay": "06/2016",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-     {
+      {
         "startDay": "06/2016",
         "endDay": "06/2017",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-	  {
+      {
         "startDay": "06/2017",
         "endDay": "06/2018",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-	  {
+      {
         "startDay": "06/2018",
         "endDay": "06/2019",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-	  {
+      {
         "startDay": "06/2019",
         "endDay": "06/2020",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-	  {
+      {
         "startDay": "06/2020",
         "endDay": "06/2021",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-	  {
+      {
         "startDay": "06/2021",
         "endDay": "06/2022",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-	  {
+      {
         "startDay": "06/2022",
         "endDay": "06/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       },
-	  {
+      {
         "startDay": "06/2023",
         "endDay": "11/2023",
         "company": "CÔNG TY TNHH TỔNG HỢP THƯƠNG MẠI VÀ DỊCH VỤ NGỌC XUÂN",
         "position": "Trưởng Phòng Nhân Sự",
-		"luong": "25.000.000",
-		"luongDongBHXH": "25.000.000",
-		"noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
+        "luong": "25.000.000",
+        "luongDongBHXH": "25.000.000",
+        "noiLamViec": "Khu 5, xã Đỗ Sơn, huyện Thanh Ba, tỉnh Phú Thọ"
       }
     ],
     "avatar": "https://raw.githubusercontent.com/hoang-conal/vssid-f/main/IMG_20231127_125223.jpg",
-	"imageBHYT": "https://hoang-conal.github.io/imagebhyt/bhyt-4024275626.jpeg",
-	"kcblandau": "Trạm y tế xã Đặng Sơn"
+    "bHYT": {
+      "imageBHYT": "https://hoang-conal.github.io/imagebhyt/bhyt-4024275626.jpeg",
+      "kcblandau": "Trạm y tế xã Đặng Sơn",
+      "timenamnamlientuc": "04/04/2023"
+    }
   }
 ]
